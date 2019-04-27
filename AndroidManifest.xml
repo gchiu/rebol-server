@@ -1,0 +1,11 @@
+<?xml version='1.0'?>
+<manifest xmlns:a='http://schemas.android.com/apk/res/android' package='giuliolunati.rebolserver' a:versionCode='0' a:versionName='0'>
+    <application a:label='Rebol Server'>
+        <activity a:name='giuliolunati.rebolserver.MainActivity'>
+             <intent-filter>
+                <category a:name='android.intent.category.LAUNCHER'/>
+                <action a:name='android.intent.action.MAIN'/>
+             </intent-filter>
+        </activity>
+    </application>
+</manifest>
